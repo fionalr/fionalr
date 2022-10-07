@@ -1,4 +1,4 @@
-#### 😄 Hey I'm @fionalr ! 
+#### 👋 Hey I'm @fionalr ! 
 - 🎓 I’m a 3rd year Computer Science student @ Queen's University in Kingston ON!
 - 🤖 I have a passion for machine learning & math
 - ⚙️ Most of all, I love learning new things & using my brain for problem solving!
