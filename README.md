@@ -1,5 +1,5 @@
 #### 👋 Hey I'm @fionalr ! 
-- cs + ai grad drawn to quietly engineering a kinder world
+- cs + ai grad drawn to engineering a kinder world
 
 You can reach me via:
 -           📨 email: fionaleclairrobertson@gmail.com
